@@ -1,0 +1,167 @@
+{
+    "OPPORTUNITY_ID": 40202731,
+    "OPPORTUNITY_NAME": "Test Delete me",
+    "OPPORTUNITY_DETAILS": "",
+    "OPPORTUNITY_STATE": "OPEN",
+    "RESPONSIBLE_USER_ID": 2026628,
+    "CATEGORY_ID": null,
+    "IMAGE_URL": null,
+    "BID_CURRENCY": "USD",
+    "BID_AMOUNT": null,
+    "BID_TYPE": "Fixed Bid",
+    "BID_DURATION": null,
+    "ACTUAL_CLOSE_DATE": null,
+    "DATE_CREATED_UTC": "2024-04-30 14:15:27",
+    "DATE_UPDATED_UTC": "2024-04-30 14:15:27",
+    "OPPORTUNITY_VALUE": null,
+    "PROBABILITY": null,
+    "FORECAST_CLOSE_DATE": null,
+    "OWNER_USER_ID": 2026628,
+    "LAST_ACTIVITY_DATE_UTC": null,
+    "NEXT_ACTIVITY_DATE_UTC": null,
+    "PIPELINE_ID": null,
+    "STAGE_ID": null,
+    "CREATED_USER_ID": 2026628,
+    "ORGANISATION_ID": null,
+    "PRICEBOOK_ID": null,
+    "CUSTOMFIELDS": [
+        {
+            "FIELD_NAME": "AQ_Trip_Map__c",
+            "FIELD_VALUE": "<a href=\"\">Map Link</a>",
+            "CUSTOM_FIELD_ID": "AQ_Trip_Map__c"
+        },
+        {
+            "FIELD_NAME": "Contact__c",
+            "FIELD_VALUE": 356284014,
+            "CUSTOM_FIELD_ID": "Contact__c"
+        },
+        {
+            "FIELD_NAME": "Create_Quote_with_All_Products__c",
+            "FIELD_VALUE": false,
+            "CUSTOM_FIELD_ID": "Create_Quote_with_All_Products__c"
+        },
+        {
+            "FIELD_NAME": "Equipment_Total_Listing_Cost__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Equipment_Total_Listing_Cost__c"
+        },
+        {
+            "FIELD_NAME": "Equipment_Total_Listing_Value__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Equipment_Total_Listing_Value__c"
+        },
+        {
+            "FIELD_NAME": "Featured_Flyer_Status__c",
+            "FIELD_VALUE": "Not Featured",
+            "CUSTOM_FIELD_ID": "Featured_Flyer_Status__c"
+        },
+        {
+            "FIELD_NAME": "Found_on_First_Run__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Found_on_First_Run__c"
+        },
+        {
+            "FIELD_NAME": "Has_Wanted_Opp__Sales__c",
+            "FIELD_VALUE": false,
+            "CUSTOM_FIELD_ID": "Has_Wanted_Opp__Sales__c"
+        },
+        {
+            "FIELD_NAME": "Integration_Wanted__c",
+            "FIELD_VALUE": false,
+            "CUSTOM_FIELD_ID": "Integration_Wanted__c"
+        },
+        {
+            "FIELD_NAME": "Lot_Price_CI__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Lot_Price_CI__c"
+        },
+        {
+            "FIELD_NAME": "NUBA_Authority_Score__c",
+            "FIELD_VALUE": "0 - Gatherer",
+            "CUSTOM_FIELD_ID": "NUBA_Authority_Score__c"
+        },
+        {
+            "FIELD_NAME": "NUBA_Budget_Score__c",
+            "FIELD_VALUE": "0 - Unsure",
+            "CUSTOM_FIELD_ID": "NUBA_Budget_Score__c"
+        },
+        {
+            "FIELD_NAME": "NUBA_Need_Score__c",
+            "FIELD_VALUE": "0 - Unclear",
+            "CUSTOM_FIELD_ID": "NUBA_Need_Score__c"
+        },
+        {
+            "FIELD_NAME": "NUBA_Score__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "NUBA_Score__c"
+        },
+        {
+            "FIELD_NAME": "NUBA_Urgency_Score__c",
+            "FIELD_VALUE": "0 - Future",
+            "CUSTOM_FIELD_ID": "NUBA_Urgency_Score__c"
+        },
+        {
+            "FIELD_NAME": "Opportunity_Autonumber__Integration__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Opportunity_Autonumber__Integration__c"
+        },
+        {
+            "FIELD_NAME": "Parts_Total_Listing_Cost__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Parts_Total_Listing_Cost__c"
+        },
+        {
+            "FIELD_NAME": "Parts_Total_Listing_Value__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Parts_Total_Listing_Value__c"
+        },
+        {
+            "FIELD_NAME": "QTY_of_Equipment_Reviewed__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "QTY_of_Equipment_Reviewed__c"
+        },
+        {
+            "FIELD_NAME": "QTY_of_Unique_SKUs__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "QTY_of_Unique_SKUs__c"
+        },
+        {
+            "FIELD_NAME": "Quantity__Wanteds__c",
+            "FIELD_VALUE": 1,
+            "CUSTOM_FIELD_ID": "Quantity__Wanteds__c"
+        },
+        {
+            "FIELD_NAME": "Response_Priority__Wanteds__c",
+            "FIELD_VALUE": "Active Wanteds",
+            "CUSTOM_FIELD_ID": "Response_Priority__Wanteds__c"
+        },
+        {
+            "FIELD_NAME": "Send_Confirmation_Email__c",
+            "FIELD_VALUE": false,
+            "CUSTOM_FIELD_ID": "Send_Confirmation_Email__c"
+        },
+        {
+            "FIELD_NAME": "Signed_Rental_Contract__c",
+            "FIELD_VALUE": false,
+            "CUSTOM_FIELD_ID": "Signed_Rental_Contract__c"
+        },
+        {
+            "FIELD_NAME": "Site_Visit_Country__c",
+            "FIELD_VALUE": "United States",
+            "CUSTOM_FIELD_ID": "Site_Visit_Country__c"
+        },
+        {
+            "FIELD_NAME": "Site_Visit_Rating__c",
+            "FIELD_VALUE": "6",
+            "CUSTOM_FIELD_ID": "Site_Visit_Rating__c"
+        },
+        {
+            "FIELD_NAME": "Surplus__Refund_Amount__c",
+            "FIELD_VALUE": 0,
+            "CUSTOM_FIELD_ID": "Surplus__Refund_Amount__c"
+        }
+    ],
+    "TAGS": [],
+    "LINKS": [],
+    "LINKED_EMAIL_ADDRESS": "njourdan-O40202731-GUGOIX1@mailbox.insight.ly"
+}
